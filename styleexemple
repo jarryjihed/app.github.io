@@ -1,0 +1,54 @@
+body{
+	background-color: gray;
+}
+h1{
+	
+	color: red;						/*couleur noir*/
+	background-color: orange;				/* colorer l'arriere plan*/
+	text-align: center;        				  /*position centre*/
+	
+}
+h2{
+	color: blue;
+	font-size: 20px;    					    /*taille*/
+	position: absolute; top: 100px; left: 450px;  			 /*position*/
+	font-weight: normal;						/*taille gras*/
+	letter-spacing: 10px;					 /*espace entre les letres*/
+	font-family: "Lucida Grande", sans-serif;
+}
+
+
+
+nav {
+      	position: absolute; top: 200px; left: 450px;  
+        
+	
+      }
+.menu {
+        
+}
+.menu > li {
+        
+      }
+
+.sub-menu li {
+        
+     
+        
+        
+      }
+/*
+.sub-menu li:last-child {
+        border-bottom: 0;
+      }
+      .sub-menu li:hover {
+        background: black;
+      }
+      .menu > li:hover .sub-menu li {
+        transform: scale(1);
+      }
+      .menu > li:hover .sub-menu {
+        transform: scale(1);
+      }
+
+*/

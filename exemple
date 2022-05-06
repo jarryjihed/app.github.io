@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JARRY</title>
+		<meta charset="utf-8">
+			<link rel="stylesheet" href="styleexemple">
+	</head>
+	<body>
+		<!--commentaire-->
+		<h1>Titre de site</h1>
+		<h2>Evenement 1</h2>
+		<img src="image/image1.jpg" alt="une image">
+		<p>ndfjjdnjdnnenekgnekgntg <strong>phrase important</strong></p>
+		<p>ndfjjdnjdnnenekgnekgntg <em>phrase tres important</em></p>
+		<p>ndfjjdnjdnnenekgnekgntg <mark>contenu marqué</mark></p>
+		<a href="http://google.com">Lien vers mon site </a>
+		<h2>Evenement 2</h2>
+		<pre>conserver la mise en forme
+					dfvdfvfv dfgvefberv     errgeveverfv
+					</pre>
+		<ul>
+			<li>Pomme</li>
+			<li>Vélo</li>
+			<li>Guitare</li>
+		</ul>
+		<ol>
+			<li>Introduction</li>
+			<li>Partie I</li>
+			<li>Partie II</li>
+		</ol>
+		<p>Cliquez <a href="http://google.com">ici </a> pour vous rendre sur la page d'accueil </p>
+		<p>page suivante<a href="app1"> ici</a></p>
+	</body>
+</html>
